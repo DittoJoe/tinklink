@@ -12,6 +12,6 @@ You will need to have Ruby installed on your machine if you haven't already:
 
 Once you have Ruby, you can run the following command to start the script:
 
-    $ ruby interface.rb
+    $ ruby decode_url.rb
     
 Now just paste your Tink Link URL and there you go! The paramaters will display on separate lines so you can easily grab the one you need.
